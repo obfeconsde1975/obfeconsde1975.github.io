@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://obfeconsde1975.github.io/sitemap.xml
